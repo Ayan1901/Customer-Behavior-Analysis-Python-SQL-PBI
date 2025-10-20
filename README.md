@@ -1,3 +1,5 @@
+### 	Screenshots / Demos
+![Homepage](https://github.com/Ayan1901/PhonePe-Financial-Transactions-Dashboard/blob/main/Homepage.png)
 
 #  Customer Behavior Analysis (Python | SQL | Power BI)
 
