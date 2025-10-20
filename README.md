@@ -1,5 +1,5 @@
 ### 	Screenshots / Demos
-![Homepage](https://github.com/Ayan1901/PhonePe-Financial-Transactions-Dashboard/blob/main/Homepage.png)
+![Homepage](https://github.com/Ayan1901/Customer-Behavior-Analysis-Python-SQL-PBI/blob/main/customer_behavior_dashboard_snapshot.png)
 
 #  Customer Behavior Analysis (Python | SQL | Power BI)
 
