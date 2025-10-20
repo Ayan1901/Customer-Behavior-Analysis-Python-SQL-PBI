@@ -1,3 +1,4 @@
+
 #  Customer Behavior Analysis (Python | SQL | Power BI)
 
 A data analytics project showcasing end-to-end customer behavior analysis — from raw data ingestion to interactive business dashboards.  
